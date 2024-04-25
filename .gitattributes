@@ -1,0 +1,4 @@
+ProductionLine.obj filter=lfs diff=lfs merge=lfs -text
+ProdoctionLine.obj filter=lfs diff=lfs merge=lfs -text
+Production.obj filter=lfs diff=lfs merge=lfs -text
+MachineTool.obj filter=lfs diff=lfs merge=lfs -text
